@@ -17,3 +17,9 @@
 
 ## 07.02
 
+- Feedback XCL
+    - Votre journal de travail est clair et bien présenté. Vous pouvez toutefois y mettre un petit peu plus d'informations, par exemple: sous "répartition des tâches et choix du nom du site", quelle décision de répartition avez-vous faites ? Quel est le nom du site que vous avez choisi ?
+    - Veuillez modifier le readme du repo pour qu'il me permette d'accéder à votre site et donc de vous donner un retour dessus
+
+- Journal de travail
+    - ...
