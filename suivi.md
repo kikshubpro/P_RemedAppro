@@ -7,11 +7,17 @@
     - Rédigez **rapidement** un contrat, qu'on puisse le signer et que vous puissiez commencer à travailler
 
 - Journal de travail
+
     20 minutes : théorie sur GitHub  
+
     30 minutes : vérification et impression du contrat d'approfondissement  
+
     10 minutes : rejoindre l'outil de design collaboratif Figma  
+
     20 minutes : essayer de comprendre Figma  
+
     20 minutes : repartition des tâches et choix du nom du site  
+
     30 minutes : configuration du site sur Odoo  
 
 
@@ -23,4 +29,17 @@
     - attention à la rédaction en markdown. Tel que vous l'aviez fait, chaque ligne de votre journal de travail était collée à la précédente. Pour assurer un saut de ligne, il faut soit ajouter une ligne blanche, soit terminer la ligne par deux espaces.
 
 - Journal de travail
-    - ...
+
+    10 minutes : division du groupe après discussion (Jonathan Junod l'a quitté)  
+
+    20 minutes : organisation du projet car Ryan Heuer rejoind le projet  
+
+    5 minutes : création du site  
+
+    10 minutes : tout le monde a rejoind le site  
+
+    10 minutes : nouvelle liste de tâches + repartition des tâches ( je m'occupe de la décoration de la page d'accueil
+
+    1 heure : conception du site (titre et textes sur la page d'accueil)
+
+    25 minutes : discussion de ce qu'on a fait avec l'équipe
