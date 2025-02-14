@@ -43,3 +43,10 @@
     1 heure : conception du site (titre et textes sur la page d'accueil)
 
     25 minutes : discussion de ce qu'on a fait avec l'équipe
+
+## 14.2
+- Feedback XCL
+    - Tout semble avancer correctement. Continuez
+ 
+- Journal de travail
+    - ...
