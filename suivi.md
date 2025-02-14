@@ -49,4 +49,20 @@
     - Tout semble avancer correctement. Continuez
  
 - Journal de travail
-    - ...
+    
+    10 minutes : explication du travail ensemble et de l'ambiance au travail par le prof  
+
+    20 minutes : revue de la liste des tâches  
+
+    10 minutes : recherche d'une image pour la présentation des qualités du site  
+
+    20 minutes : configuration de la partie pour nous contacter sur la page d'accueil  
+
+    20 minutes : création d'un nouveau site par eduvaud afin de bénéficier de fonctionnalités avancées  
+
+    10 minutes : connection au nouveau site  
+
+    20 minutes : configuration finale de la page d'accueil du site  
+
+    30 minutes : création d'une nouvelle page de mise vente de produits (pas encore ajoutée au menu)  
+
