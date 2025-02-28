@@ -66,3 +66,8 @@
 
     30 minutes : création d'une nouvelle page de mise vente de produits (pas encore ajoutée au menu)  
 
+## 28.12
+
+- Feedback XCL
+    - Vous êtes toujours sur le bon chemin. Votre JdT et bien. Continuez!
+
