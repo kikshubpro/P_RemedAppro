@@ -71,3 +71,27 @@
 - Feedback XCL
     - Vous êtes toujours sur le bon chemin. Votre JdT et bien. Continuez!
 
+- Journal de travail  
+  
+    10 minutes : explications de Carrel sur le nommage des commits  ¨
+  
+    10 minutes : réunion pour se partager les tâches (je m'occupe du bas de la page d'accueil et de ma description)  
+  
+    10 minutes : lecture du document sur le nommage des comits  
+  
+    10 minutes : revue de ce que j'avais fais la dernière fois sur le site  
+  
+    20 minutes : configuration de la mise en ligne de produits avec Benjamin  
+  
+    10 minutes : écriture de ma description en tant que l'un des concepteurs du site  
+  
+    10 minutes : discussion de groupe pour voire ce qu'on à déjà fait aujourd'hui  
+  
+    20 minutes : aider Benjamin à gérer les pages du site  
+  
+    20 minutes : tentative de conceptionner une page pour ajouter des annonces  
+  
+    20 minutes : petites personnalisations sur les pages du site  
+  
+    15 minutes : debut de l'écriture du bilan des fonctionnalités  
+  
