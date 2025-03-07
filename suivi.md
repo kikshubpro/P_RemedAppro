@@ -95,3 +95,12 @@
   
     15 minutes : debut de l'écriture du bilan des fonctionnalités  
   
+
+## 7.3
+
+- Feedback XCL
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+    - Journal OK
+    - Commits git Ok
+
+- Journal de travail
