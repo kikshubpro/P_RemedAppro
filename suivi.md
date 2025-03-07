@@ -104,3 +104,16 @@
     - Commits git Ok
 
 - Journal de travail
+  
+    10 minutes : théorie par le prof  
+  
+    10 minutes : fin d'écriture du bilan des fonctionnalités  
+  
+    10 minutes : écriture des status  
+  
+    20 minutes : demander les accès aux paramètres à Benjamin et activer le mode développeur afin de pouvoir ajouter une page de mise en ligne de produits pour les utilisateurs  
+  
+    1 heure : chercher un module qui permet au utilisateurs du site de mettre en vente leurs produits  
+  
+    20 minutes : installer le module "Poin de vente" et voir ses fonctionnalités  
+  
