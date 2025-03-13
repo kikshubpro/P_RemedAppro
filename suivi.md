@@ -117,3 +117,21 @@
   
     20 minutes : installer le module "Poin de vente" et voir ses fonctionnalités  
   
+    10 minutes : commit du travail du jour en sebasant sur le modèle  
+  
+
+## 13.3  
+  
+- Journal de travail  
+  
+    1 heure : essayer d'ajouter un module qui permet d'ajouter ses produits  
+  
+    1 heure : demande d'aide au prof du cours Idriss Ballaman sans résultat concluant  
+  
+    1 heure : essayer de changer les accès aux nouveaux utilisateurs pour qu'ils puissent automatiquement accéder à l'onglet pour ajouter des annonces : Ventes  
+  
+    10 minutes : demande au responsable du projet si on peut changer l'objectif qui dit que l'utilisateur peut mettre en vente un produit (maintenant il suffit qu'un administrateur puisse donner l'accès à l'utilisateur)  
+  
+    20 minutes : faire les tests pour voir si l'objectif à correctement été atteint  
+  
+  
