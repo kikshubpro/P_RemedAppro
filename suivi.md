@@ -142,4 +142,15 @@
     - Tout va bien, continuez...
 
 - Journal de travail
-    -
+    
+    10 minutes : petit meeting pour vérifier qu'on a bien tout fini  
+  
+    20 minutes : présentation du site au professeur  
+  
+    20 minutes : connection à Stripe pour pouvoir faire des tests avec de fausses acrtes de crédit  
+  
+    20 minutes : configuration du compte Stripe  
+  
+    30 minutes : activation de Stripe sur le site  
+  
+    
