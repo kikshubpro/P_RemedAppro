@@ -152,5 +152,10 @@
     20 minutes : configuration du compte Stripe  
   
     30 minutes : activation de Stripe sur le site  
-  
+
+  # Conclusion
+
+Je valide votre projet. Je vous félicite parce que vous avez pris un risque en vous lançant dans un domaine tout nouveau et que vous avez réussi à atteindre vos objectifs. Votre attitude a été excellente durant tout ce projet. Vous avez cherché à résoudre les problèmes par vous-même et vous avez été proactif dans les moments de difficulté ou de changement de direction.
+
+Continuez comme ça
     
